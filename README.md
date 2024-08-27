@@ -3,7 +3,9 @@
 
 - <h2>📜 Certifications</h2>
 
-[Google Cybersecurity] (https://coursera.org/share/8690a9fbb023632dba21ab154d1fc8b2)
+- [Google Cybersecurity](https://coursera.org/share/8690a9fbb023632dba21ab154d1fc8b2)
+- [Google IT Support](https://coursera.org/share/eee6f862baac9308c55626eb9ada2fae)
+- [Certified in Cybersecurity](https://coursera.org/share/fd7d27145a86743806e19959ad27417e)
 
 
 - 👀 I’m interested in GRC, Cybersecurity as a whole, and IT.
