@@ -1,6 +1,10 @@
 <h1>👋🏻 Hi, I’m Alexis!</h1>
 <h2> I.T. Technician and Equipment Coordinator, Transitioning into Cybersecurity.</h2>
 
+- <h2>📜 Certifications</h2>
+- [Google Cybersecurity] (https://coursera.org/share/8690a9fbb023632dba21ab154d1fc8b2)
+
+
 - 👀 I’m interested in GRC, Cybersecurity as a whole, and IT.
 
 - 🌱 I’m currently learning Cybersecurity, GRC, Defence in Depth, VM Management, SIEM, and more.
