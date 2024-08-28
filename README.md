@@ -17,7 +17,9 @@
 
 - 🌱 I’m currently learning Cybersecurity, GRC, Defence in Depth, VM Management, SIEM, and more.
 
-- 👩🏻‍💻 I'm Actively working on Cybersecurty projects. 
+- <h2>👩🏻‍💻 I'm Actively working on Cybersecurity projects.</h2>
+
+ 
 
 - 💞️ Would love to collaborate on Cyber projects with other users.
 
