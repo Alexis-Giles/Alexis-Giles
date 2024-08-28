@@ -6,7 +6,12 @@
 - [Google Cybersecurity](https://coursera.org/share/8690a9fbb023632dba21ab154d1fc8b2)
 - [Google IT Support](https://coursera.org/share/eee6f862baac9308c55626eb9ada2fae)
 - [Certified in Cybersecurity](https://coursera.org/share/fd7d27145a86743806e19959ad27417e)
-
+- [Learn SQL Course](https://www.codecademy.com/profiles/alexissteez/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
+- [Introduction To Ethical Hacking Course](https://www.codecademy.com/profiles/alexissteez/certificates/03f04867616242888444dd22f20c29e5)
+- [Introduction to UI and UX Design Course](https://www.codecademy.com/profiles/alexissteez/certificates/4ccef8d532484ea2aeec3b3b3dbb4f9c)
+- [Fundamentals of HTML Course](https://www.codecademy.com/profiles/alexissteez/certificates/ad513f383b1d43199c7a1a98431fbccf)
+- [Learn HTML Course](https://www.codecademy.com/profiles/alexissteez/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)
+- [Vulnerability Management Detection and Response](https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_9f02a37d-8ced-4844-a072-af34c239e1f2.pdf)
 
 - 👀 I’m interested in GRC, Cybersecurity as a whole, and IT.
 
